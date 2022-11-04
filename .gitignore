@@ -11,7 +11,7 @@ webviewer-ui-beta.zip
 notes
 build/
 # settings/
-environments/
+environments/ 
 dump.rdb
 __snapshots__/
 keys
